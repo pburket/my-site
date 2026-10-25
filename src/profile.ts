@@ -19,7 +19,7 @@ export const profile = {
   displayName: "Your Name",
 
   /** Your UD email — must match the one you signed into the course with. */
-  email: "you@udel.edu",
+  email: "pburket@udel.edu",
 
   /** Where you're from. Shows on your roster card and /about. */
   hometown: "Newark, Delaware",
@@ -29,21 +29,21 @@ export const profile = {
    * how classmates find something to say hello about.
    */
   funFacts: [
-    "I once assembled IKEA furniture without leftover screws.",
-    "I can name every U.S. state capital in under two minutes.",
+    "I shot pool semi professionally for several years.",
+    "I could barely communicate with the woman who is now my wife on our first date.",
   ],
 
   /** One decision you're proud of, in a sentence. */
   decisionImProudOf:
-    "I chose to take a gap semester to work retail; it taught me more about customers than any textbook.",
+    "I am supporting my wife while she pursues her medical license in America.",
 
   /**
    * Your photo. Replace public/photo.svg with a real photo of you
    * (e.g. put photo.jpg in the public/ folder and change this to "/photo.jpg").
    * It must be a real image file: the grader fetches it and checks.
    */
-  photoPath: "/photo.svg",
-
+  photoPath: "/photo.jpeg",
+ 
   /**
    * Who can see your roster card:
    *   "class"          — your classmates and the professor (recommended)
