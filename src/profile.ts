@@ -22,7 +22,7 @@ export const profile = {
   email: "pburket@udel.edu",
 
   /** Where you're from. Shows on your roster card and /about. */
-  hometown: "Newark, Delaware",
+  hometown: "Mechanicsburg, Pennsylvania",
 
   /**
    * 2 to 4 fun facts (the grader checks the count!). Real ones: they're
