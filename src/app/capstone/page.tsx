@@ -200,8 +200,8 @@ export default async function CapstonePage() {
       <section className="mt-10">
         <h2 className="text-2xl font-bold">How sure can {reader} be?</h2>
         <p className="mt-3 max-w-prose text-muted" data-capstone="uncertainty">
-         Patrick can have high confidence in his decision for Shop 1.  However, history only has 3 instances of data where Patrick visited Shop 2.  More evidence would make Shop 2 clearer.
-        </p>
+         Patrick can have high confidence in his decision for Shop 1 as Shop 1 has a likely range of 3,781-4,074 cars fixed.  Shop 2 has a higher typical results 
+         and higher ceiling, but with a lower floor with a likely range of 3,630-4,298 cars fixed.  That makes Shop 2 fall beneath the target of 3,750 cars fixed more frequently than Shop 1.  Additionally, there are only three instances of Patrick working at Shop 2 in the history.  More evidence would make that clearer. </p>
       </section>
     </main>
   );
